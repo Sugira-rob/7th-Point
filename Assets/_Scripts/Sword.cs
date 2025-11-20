@@ -11,9 +11,17 @@ public class Sword : MonoBehaviour
         playerControls = new PlayerControlls();
     }
 
-    private void OnEnable()
+    // private void OnEnable()
+    // {
+    //     // playerControls.Combat.Attack.started += _=> Attack();
+    // }
+
+    void Update()
     {
-        playerControls.Combat.Attack.started += _=> Attack();
+         if (Input.GetKeyDown(KeyCode.Space))
+        {
+            Attack();
+        }
     }
 
     private void Attack()
