@@ -1,4 +1,4 @@
-Echoes – Unity Game Project
+Echoes of the Seed – Unity Game Project
 
 Overview
 
