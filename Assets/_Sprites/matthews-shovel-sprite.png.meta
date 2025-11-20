@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 25da2a122fb0f4e488f2e3e0efadf6ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5231877417749156119
+    second: matthews-shovel-sprite_0
+  - first:
+      213: -3583749881501757365
+    second: matthews-shovel-sprite_1
+  - first:
+      213: -7532903515008829814
+    second: matthews-shovel-sprite_2
+  - first:
+      213: -2447491345587848192
+    second: matthews-shovel-sprite_3
+  - first:
+      213: -8586023095826629353
+    second: matthews-shovel-sprite_4
+  - first:
+      213: 8945272035599321690
+    second: matthews-shovel-sprite_5
+  - first:
+      213: -1382222685137299187
+    second: matthews-shovel-sprite_6
+  - first:
+      213: -4409542123173325512
+    second: matthews-shovel-sprite_7
+  - first:
+      213: 2861603739924871176
+    second: matthews-shovel-sprite_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: matthews-shovel-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 801
+        width: 389
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee6cae4533a467b0800000000000000
+      internalID: -5231877417749156119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matthews-shovel-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 944
+        width: 275
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b405d356876f34ec0800000000000000
+      internalID: -3583749881501757365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matthews-shovel-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 801
+        width: 389
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a867b940a20c57790800000000000000
+      internalID: -7532903515008829814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matthews-shovel-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 342
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cb46ba693c80ed0800000000000000
+      internalID: -2447491345587848192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matthews-shovel-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 717
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d34fb2c7158d880800000000000000
+      internalID: -8586023095826629353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matthews-shovel-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 510
+        width: 291
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a0225b58df32c70800000000000000
+      internalID: 8945272035599321690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matthews-shovel-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 315
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0997eb8acb51dce0800000000000000
+      internalID: -1382222685137299187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matthews-shovel-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 69
+        width: 246
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835d12e3dc82ec2c0800000000000000
+      internalID: -4409542123173325512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matthews-shovel-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 69
+        width: 172
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b626a07576b720800000000000000
+      internalID: 2861603739924871176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      matthews-shovel-sprite_0: -5231877417749156119
+      matthews-shovel-sprite_1: -3583749881501757365
+      matthews-shovel-sprite_2: -7532903515008829814
+      matthews-shovel-sprite_3: -2447491345587848192
+      matthews-shovel-sprite_4: -8586023095826629353
+      matthews-shovel-sprite_5: 8945272035599321690
+      matthews-shovel-sprite_6: -1382222685137299187
+      matthews-shovel-sprite_7: -4409542123173325512
+      matthews-shovel-sprite_8: 2861603739924871176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
