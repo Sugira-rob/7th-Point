@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class TopDownPlayer : MonoBehaviour
 {
+    public bool FacingLeft { get {return FacingLeft;} set {FacingLeft = value;} }
     public float moveSpeed = 5.0f;
 
     private Rigidbody2D rb;
@@ -9,6 +10,9 @@ public class TopDownPlayer : MonoBehaviour
 
     private Animator animator;
     private SpriteRenderer spriteRenderer;
+
+    private bool facingLeft = false;
+    
 
     void Start()
     {
