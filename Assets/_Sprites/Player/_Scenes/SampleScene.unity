@@ -464,7 +464,7 @@ GameObject:
   m_Component:
   - component: {fileID: 680883724}
   m_Layer: 0
-  m_Name: Tileset
+  m_Name: Environment
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -673,6 +673,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6512637c7be834032a77044587fb520d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  slashAnimPrefab: {fileID: 1397738817935751766, guid: d0c0056aa751f4b2586bad142e873b78, type: 3}
+  slashAnimSpawnPoint: {fileID: 1705569421}
 --- !u!4 &981552915 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6971861717811173284, guid: 2b4872c0de09f40aa97ac78e5990958d, type: 3}
@@ -758,6 +760,7 @@ GameObject:
   - component: {fileID: 1322907396}
   - component: {fileID: 1322907400}
   - component: {fileID: 1322907401}
+  - component: {fileID: 1322907402}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -935,6 +938,18 @@ CapsuleCollider2D:
   m_Offset: {x: -0.055079054, y: -0.5183617}
   m_Size: {x: 0.7513249, y: 0.5973952}
   m_Direction: 1
+--- !u!210 &1322907402
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1322907395}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_SortAtRoot: 0
 --- !u!4 &1411239176 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 934097427408913932, guid: 04c140c8c7a8d4d19bfb3cc3c78d2126, type: 3}
